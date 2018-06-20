@@ -1,7 +1,7 @@
 FROM debian:9
-MAINTAINER Benoit Chabord <>
+MAINTAINER Lukas Schinninger <>
 
-ENV MCS_MAJOR_VERSION "1.0.11"
+ENV MCS_MAJOR_VERSION "1.1.5"
 ENV MCS_MINOR_VERSION "-1"
 
 WORKDIR /root/
